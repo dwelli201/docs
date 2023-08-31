@@ -32,10 +32,10 @@ th {
 
 /* Link styles */
 a {
-  color: #39FF14; /* Zombie green */
+  color: olive drab; /* Use olive drab color */
   text-decoration: none;
 }
 
 a:hover {
-  color: #00FF00; /* Neon green when hovered */
+  color: #00AB6B; /* Slightly different color when hovered */
 }
