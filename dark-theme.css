@@ -1,16 +1,26 @@
-/* Assuming you've defined these colors in your dark theme */
+/* Dark theme colors */
 body {
   background-color: #1E1E1E;
   color: #FFFFFF;
 }
 
-/* Apply similar colors to table cells */
+/* Table cell styles */
 table {
   border-collapse: collapse;
 }
 
 td {
-  background-color: #1E1E1E; /* Use your dark background color */
-  color: #FFFFFF; /* Use your light text color */
-  padding: 8px; /* Adjust padding as needed */
+  background-color: #1E1E1E;
+  color: #FFFFFF;
+  padding: 8px;
+}
+
+/* Link styles */
+a {
+  color: #39FF14; /* Zombie green */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00FF00; /* Neon green when hovered */
 }
