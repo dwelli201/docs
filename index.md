@@ -13,4 +13,5 @@
 ## _Productivity Tools_
 | Website                | URL                                                                          |
 |:-----------------------|:-----------------------------------------------------------------------------|
-|Flank Speed Landing Page| [https://portal.apps.mil/](https://portal.apps.mil/])                        |
+|Flank Speed Landing Page|[https://portal.apps.mil/](https://portal.apps.mil/])                         |
+| STEPP Classes          |[https://www.cdse.edu/](https://www.cdse.edu/)                                | 
