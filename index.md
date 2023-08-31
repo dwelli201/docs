@@ -13,4 +13,4 @@
 ## _Productivity Tools_
 | Website                | URL                                                                          |
 |:-----------------------|:-----------------------------------------------------------------------------|
-|Flank Speed LAnding Page| [https://portal.apps.mil/](https://portal.apps.mil/])                        |
+|Flank Speed Landing Page| [https://portal.apps.mil/](https://portal.apps.mil/])                        |
