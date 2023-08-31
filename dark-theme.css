@@ -1,3 +1,11 @@
+/* Import the Play font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+
+/* Apply the imported font to all headings (titles) */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Play', sans-serif;
+}
+
 /* Dark theme colors */
 body {
   background-color: #1E1E1E;
