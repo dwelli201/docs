@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="path/to/dark-theme.css">
+<link rel="stylesheet" href="dark-theme.css">
+
 ## My list of important URL's
 
 | Website                | URL                                                                          |
