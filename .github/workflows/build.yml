@@ -1,0 +1,12 @@
+name: My Workflow
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Run a script
+        run: echo "Hello, GitHub Actions!"
