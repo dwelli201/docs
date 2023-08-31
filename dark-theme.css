@@ -3,7 +3,7 @@
 
 /* Apply the imported font to all headings (titles) */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Play', sans-serif;
+  font-family: 'Orbitron', sans-serif;
 }
 
 /* Dark theme colors */
@@ -32,7 +32,7 @@ th {
 
 /* Link styles */
 a {
-  color: olive drab; /* Use olive drab color */
+  color: #FFFFFF; /* White color for links */
   text-decoration: none;
 }
 
