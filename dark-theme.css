@@ -1,7 +1,16 @@
+/* Assuming you've defined these colors in your dark theme */
 body {
-    background-color: #1E1E1E;
-    color: #FFFFFF;
-  }
-  
-  /* Add more CSS rules here for various elements */
-  
+  background-color: #1E1E1E;
+  color: #FFFFFF;
+}
+
+/* Apply similar colors to table cells */
+table {
+  border-collapse: collapse;
+}
+
+td {
+  background-color: #1E1E1E; /* Use your dark background color */
+  color: #FFFFFF; /* Use your light text color */
+  padding: 8px; /* Adjust padding as needed */
+}
