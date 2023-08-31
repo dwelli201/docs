@@ -15,6 +15,13 @@ td {
   padding: 8px;
 }
 
+/* Table header styles (first row) */
+th {
+  background-color: #1E1E1E; /* Dark background color for the first row */
+  color: #FFFFFF;
+  padding: 8px;
+}
+
 /* Link styles */
 a {
   color: #39FF14; /* Zombie green */
