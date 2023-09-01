@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="dark-theme.css">
 
 | [Commands](./commands.md) | [Education](./education.md) | [Test](./test.md) |
-|:-------------------------:|:--------------------------:|:------------------:|
+
 
 
 ## _Commands_
