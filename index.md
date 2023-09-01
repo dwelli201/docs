@@ -5,3 +5,5 @@
 | [Flank Speed Landing Page](https://portal.apps.mil/) | [DOD SAFE](https://safe.apps.mil/) |
 
 [Links](./links.md)
+
+<span style="color: blue;">This text is blue.</span>
