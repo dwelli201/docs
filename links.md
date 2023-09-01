@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="dark-theme.css">
 
 | [Commands](./commands.md) | [Education](./education.md) | [Index](./index.md) |
-|:-------------------------:|:--------------------------:|:--------------------:|
+
 
 
 ## _Commands_
