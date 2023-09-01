@@ -11,7 +11,7 @@
 | [My Navy Reserve](https://www.mynrh.navy.mil/) | [NRC Norfolk](https://private.navyreserve.navy.mil/RCC/NRMA_NFK/NORFOLK/) | [NRC Austin](https://private.navyreserve.navy.mil/RCC/NRSE_FW/AUSTIN/Pages/NRH_Default.aspx) |
 
 ## _Education_
-| [STEPP Classes](https://www.cdse.edu/) |[Navy E-Learning](http://learning.nel.navy.mil/ELIAASv2p/)|
+| [STEPP Classes](https://www.cdse.edu/) | [Navy E-Learning](http://learning.nel.navy.mil/ELIAASv2p/) |
 
 ## _Administrative_
 
