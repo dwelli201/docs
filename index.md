@@ -2,6 +2,8 @@
 
 ## _Commands_
 
+|[Commands](./commands.md)|[Education](./education.md)|[Test](./test.md)
+
 | Website                | URL                                                                          |
 |:-----------------------|:-----------------------------------------------------------------------------|
 |My Navy Reserve Homeport|[https://www.mynrh.navy.mil/](https://www.mynrh.navy.mil/)                    |
