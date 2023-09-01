@@ -1,8 +1,9 @@
 <link rel="stylesheet" href="dark-theme.css">
 
-## _Commands_
-
 |[Commands](./commands.md)|[Education](./education.md)|[Test](./test.md)
+|:---:|:---:|:---:|
+
+## _Commands_
 
 | Website                | URL                                                                          |
 |:-----------------------|:-----------------------------------------------------------------------------|
