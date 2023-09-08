@@ -1,9 +1,8 @@
-## Links
+## All Links
 
 <link rel="stylesheet" href="dark-theme.css">
 
-| [Commands](./commands.md) | [Education](./education.md) | [Index](./index.md) |
-
+| [Index](./index.md) | [Commands](./commands.md) | [Education](./education.md) 
 
 
 ## _Commands_
@@ -22,5 +21,3 @@
 
 | [DOD SAFE](https://safe.apps.mil/) |
 
-
-[Index](./index.md)
