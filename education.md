@@ -1,6 +1,8 @@
 <link rel="stylesheet" href="dark-theme.css">
-# Education
+# _Education_
+
 | [Commands](./commands.md) | [Education](./education.md) | [Index](./index.md) |
+
 
 ## _Education_
 
