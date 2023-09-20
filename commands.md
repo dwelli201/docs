@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="dark-theme.css">
 
-| [Index](./commands.md) | [Education](./education.md) | [Links](./links.md) |
+| [Index](./index.md) | [Education](./education.md) | [Links](./links.md) |
 
 ## _Commands_
 
