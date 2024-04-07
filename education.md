@@ -14,9 +14,12 @@
 | Cisco Packet Tracer    | [https://skillsforall.com/learningcollections/cisco-packet-tracer?courseLang=en-US](https://skillsforall.com/learningcollections/cisco-packet-tracer?courseLang=en-US) |
 | Cyber Threat Management| [https://skillsforall.com/course/cyber-threat-management?courseLang=en-US](https://skillsforall.com/course/cyber-threat-management?courseLang=en-US) |
 | Ethical Hacker  | [https://skillsforall.com/course/ethical-hacker?courseLang=en-U](https://skillsforall.com/course/ethical-hacker?courseLang=en-U) |
-
+| Network Defense  | [https://skillsforall.com/course/network-defense?courseLang=en-US](https://skillsforall.com/course/network-defense?courseLang=en-US) |
+| Endpoint Security | [https://skillsforall.com/course/endpoint-security?courseLang=en-US](https://skillsforall.com/course/endpoint-security?courseLang=en-US) |
+| Introduction to iOT| [https://skillsforall.com/course/introduction-iot?courseLang=en-US](https://skillsforall.com/course/introduction-iot?courseLang=en-US) |
 
 
 | [STEPP Classes](https://www.cdse.edu/) | [Navy E-Learning](http://learning.nel.navy.mil/ELIAASv2p/) |
+
 
 
