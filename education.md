@@ -5,6 +5,12 @@
 
 ## _Education_
 
+|Class                 | URL                                                                         |
+|:---------------------|:----------------------------------------------------------------------------|
+| Career Paths         | https://skillsforall.com/catalog?category=career+path                       |
+| Java Script          | https://skillsforall.com/learningcollections/javascript?courseLang=en-US    |
+| Python               | https://skillsforall.com/learningcollections/python?courseLang=en-US        |
+
 | [STEPP Classes](https://www.cdse.edu/) | [Navy E-Learning](http://learning.nel.navy.mil/ELIAASv2p/) |
 
 
