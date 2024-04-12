@@ -20,7 +20,7 @@
 
 - [Flank Speed Landing Page](https://portal.apps.mil/)
 - [My Navy Web Record ](https://www.mnp.navy.mil/group/my-record)
-- [Total Workforce Management System](https://twms.dc3n.navy.mil/selfservice)|
+- [Total Workforce Management System](https://twms.dc3n.navy.mil/selfservice)
 
 ## _Security_
 
