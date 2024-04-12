@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="dark-theme.css">
 
-<span style="color: blue;">_INDEX_</span>
+## _Index_
 
 | [Commands](./commands.md) | [Education](./education.md) | [Links](./links.md) |
 
