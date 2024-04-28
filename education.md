@@ -18,7 +18,7 @@
 | Endpoint Security | [https://skillsforall.com/course/endpoint-security?courseLang=en-US](https://skillsforall.com/course/endpoint-security?courseLang=en-US) |
 | Introduction to iOT| [https://skillsforall.com/course/introduction-iot?courseLang=en-US](https://skillsforall.com/course/introduction-iot?courseLang=en-US) |
 |Free Splunk Courses | [https://www.splunk.com/en_us/training/course-catalog.html?sort=Newest&filters=filterGroup1FreeCourses](https://www.splunk.com/en_us/training/course-catalog.html?sort=Newest&filters=filterGroup1FreeCourses) |
-|Hackier High School ([ISECOM](https://www.isecom.org/) CHA)| [https://www.hackerhighschool.org/gettingstarted.html](https://www.hackerhighschool.org/gettingstarted.html) |
+|Hacker High School ([ISECOM](https://www.isecom.org/) CHA)| [https://www.hackerhighschool.org/gettingstarted.html](https://www.hackerhighschool.org/gettingstarted.html) |
 |
 
 | [STEPP Classes](https://www.cdse.edu/) | [Navy E-Learning](http://learning.nel.navy.mil/ELIAASv2p/) |
