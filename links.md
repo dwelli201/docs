@@ -26,3 +26,6 @@
 
 - [DOD SAFE](https://safe.apps.mil/)
 
+## Cybersecurity
+- [Omar Santos' Security Tools](https://github.com/The-Art-of-Hacking/h4cker)
+- [Building Your Own Cybersecurity Lab and Cyber Range](https://github.com/The-Art-of-Hacking/h4cker/tree/master/build_your_own_lab)
