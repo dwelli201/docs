@@ -10,7 +10,7 @@
 | Career Paths         | [https://skillsforall.com/catalog?category=career+path](https://skillsforall.com/catalog?category=career+path)|
 | Java Script          | [https://skillsforall.com/learningcollections/javascript?courseLang=en-US](https://skillsforall.com/learningcollections/javascript?courseLang=en-US)|
 | Python               | [https://skillsforall.com/learningcollections/python?courseLang=en-US](https://skillsforall.com/learningcollections/python?courseLang=en-US)|
-| Introdustion to Cyberscurity | [https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US) |
+| Introduction to Cyberscurity | [https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US) |
 | Cisco Packet Tracer    | [https://skillsforall.com/learningcollections/cisco-packet-tracer?courseLang=en-US](https://skillsforall.com/learningcollections/cisco-packet-tracer?courseLang=en-US) |
 | Cyber Threat Management| [https://skillsforall.com/course/cyber-threat-management?courseLang=en-US](https://skillsforall.com/course/cyber-threat-management?courseLang=en-US) |
 | Ethical Hacker  | [https://skillsforall.com/course/ethical-hacker?courseLang=en-U](https://skillsforall.com/course/ethical-hacker?courseLang=en-U) |
