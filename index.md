@@ -4,7 +4,6 @@
 
 | [Commands](./commands.md) | [Education](./education.md) | [Links](./links.md) |
 
+<br>
 
-![ALT TEXT](<./images/iDoWhatIWant.gif>)
-
-<iframe src="https://poweroutage.us/area/regions" height="1024" width="1280"></iframe>
+<iframe src="https://poweroutage.us/area/regions" height="1280" width="1024"></iframe>
