@@ -1,4 +1,6 @@
-#Hardening your VM or Linux IoT devices
+[Back](./eduscation.md)
+
+# Hardening your VM or Linux IoT devices
 
 Hardening your virtual machine (VM) is essential to secure it from potential exploits and attacks. Here are some best practices for hardening your VM, focusing on Debian-based systems but applicable to most Linux distributions.
 
