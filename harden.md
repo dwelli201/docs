@@ -1,4 +1,4 @@
-[Back](./education.md)
+[Back](https://dwelli201.github.io/docs/education.html)
 
 # Hardening your VM or Linux IoT devices
 
