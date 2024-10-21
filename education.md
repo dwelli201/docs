@@ -20,6 +20,7 @@
 |Free Splunk Courses                 | [https://www.splunk.com/en_us/training/course-catalog.html?sort=Newest&filters=filterGroup1FreeCourses](https://www.splunk.com/en_us/training/course-catalog.html?sort=Newest&filters=filterGroup1FreeCourses) |
 |Hacker High School ([ISECOM](https://www.isecom.org/) CHA)| [https://www.hackerhighschool.org/gettingstarted.html](https://www.hackerhighschool.org/gettingstarted.html) |
 
+[Hardening](./harden.md)
 
 | [STEPP Classes](https://www.cdse.edu/) | [Navy E-Learning](http://learning.nel.navy.mil/ELIAASv2p/) |
 
