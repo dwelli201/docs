@@ -4,7 +4,7 @@
     </textarea>
 </div>
 
-<br?
+<br>
 
 <center>
     <img src="http://services.swpc.noaa.gov/images/animations/enlil/latest.jpg" alt="NOAA Solar Animation">
