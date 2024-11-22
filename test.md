@@ -1,8 +1,21 @@
 <div style="text-align: center;">
-    <textarea style="width: 80ch; height: 100em; overflow: auto;" readonly>
-        <!-- Content of the text file will go here -->
+    <textarea id="forecastBox" style="width: 80ch; height: 100em; overflow: auto;" readonly>
+        Loading...
     </textarea>
 </div>
+
+<script>
+    // Fetch the content of the text file and insert it into the textarea
+    fetch('https://services.swpc.noaa.gov/text/3-day-forecast.txt')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('forecastBox').textContent = data;
+        })
+        .catch(error => {
+            console.error('Error fetching the text file:', error);
+            document.getElementById('forecastBox').textContent = 'Error loading content.';
+        });
+</script>
 
 <br>
 
