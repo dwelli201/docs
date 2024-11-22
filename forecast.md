@@ -14,7 +14,7 @@
         }
         #forecastBox {
             width: 80ch;
-            height: 80em;
+            height: 90em;
             overflow: auto;
             font-family: monospace;
             white-space: pre;
