@@ -4,38 +4,80 @@
 /* Apply the imported font to all headings (titles) */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Orbitron', sans-serif;
+  color: #00AB6B; /* Add a vibrant green color to headings */
+  text-shadow: 2px 2px 5px #003D2E; /* Add a subtle shadow for depth */
 }
 
 /* Dark theme colors */
 body {
-  background-color: #1E1E1E;
-  color: #FFFFFF;
+  background-color: #121212; /* Deep black background */
+  color: #E0E0E0; /* Light gray for text to reduce strain */
+  font-family: 'Play', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
 }
 
 /* Table cell styles */
 table {
   border-collapse: collapse;
+  margin: 20px auto;
+  width: 80%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 td {
-  background-color: #1E1E1E;
-  color: #FFFFFF;
-  padding: 8px;
+  background-color: #252525;
+  color: #D0D0D0; /* Slightly softer white for readability */
+  padding: 12px;
+  border: 1px solid #333333; /* Thin border to separate cells */
 }
 
 /* Table header styles (first row) */
 th {
-  background-color: #1E1E1E; /* Dark background color for the first row */
-  color: #FFFFFF;
-  padding: 8px;
+  background-color: #2D2D2D;
+  color: #FFD700; /* Bright gold color for headers */
+  padding: 12px;
+  border: 1px solid #444444;
+  text-transform: uppercase; /* Make headers bold and capitalized */
+}
+
+/* Add zebra striping to table rows */
+tr:nth-child(even) td {
+  background-color: #1C1C1C;
+}
+
+/* Add hover effects to rows */
+tr:hover td {
+  background-color: #2F2F2F;
+  transition: background-color 0.3s ease;
 }
 
 /* Link styles */
 a {
-  color: #FFFFFF; /* White color for links */
+  color: #00FF99; /* Bright neon green for links */
   text-decoration: none;
+  font-weight: bold;
 }
 
 a:hover {
-  color: #00AB6B; /* Slightly different color when hovered */
+  color: #FF4500; /* Bright orange-red on hover */
+  text-decoration: underline;
+  transition: color 0.2s ease-in-out;
+}
+
+/* Button styles */
+button {
+  background-color: #00AB6B;
+  color: #FFFFFF;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #007A4E; /* Darker green for hover effect */
 }
