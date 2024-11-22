@@ -1,3 +1,11 @@
+<div style="text-align: center;">
+    <textarea style="width: 80ch; height: 100em; overflow: auto;" readonly>
+        <!-- Content of the text file will go here -->
+    </textarea>
+</div>
+
+<br?
+
 <center>
     <img src="http://services.swpc.noaa.gov/images/animations/enlil/latest.jpg" alt="NOAA Solar Animation">
 </center>
