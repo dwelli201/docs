@@ -32,7 +32,7 @@
 
 <div id="popup" style="display:none; position:fixed; top:10%; left:10%; width:80%; height:80%; background:white; border:1px solid black; box-shadow:0px 0px 10px rgba(0,0,0,0.5); z-index:1000; overflow:auto;">
   <button onclick="closePopup()" style="float:right; margin:10px; padding: 5px 10px; font-size: 14px;">Close</button>
-  <iframe src="https://dwelli201.github.io/docs/forecast.html" style="width:100%; height:90%; border:none;"></iframe>
+  <iframe src="[https://[dwelli201.github.io/docs/forecast.html](https://services.swpc.noaa.gov/text/3-day-forecast.txt)](https://services.swpc.noaa.gov/text/3-day-forecast.txt)" style="width:100%; height:90%; border:none;"></iframe>
 </div>
 
 <script>
