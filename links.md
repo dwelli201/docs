@@ -33,3 +33,4 @@
 ## Test Pages
 - [Test](./test.md)
 - [Forecast](./forecast.md)
+- [Channels](GMRS_Channel_Tones.md)
