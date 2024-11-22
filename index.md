@@ -26,8 +26,6 @@
 
 <br> 
 
-<button onclick="openPopup()">Open Forecast</button>
-
 <div style="text-align: center;">
   <button onclick="openPopup()" style="padding: 10px 20px; font-size: 16px;">Open NOAA Forecast</button>
 </div>
