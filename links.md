@@ -32,4 +32,4 @@
 
 ## Test Pages
 - [Test](./test.md)
-- [Forecast](./forecast)
+- [Forecast](./forecast.md)
