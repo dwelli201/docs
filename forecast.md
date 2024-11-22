@@ -13,8 +13,8 @@
             margin: 20px;
         }
         #forecastBox {
-            width: 80ch;
-            height: 100em;
+            width: 132ch;
+            height: 80em;
             overflow: auto;
             font-family: monospace;
             white-space: pre;
@@ -44,3 +44,7 @@
     </script>
 </body>
 </html>
+
+<br>
+
+[Index](./index.md)
