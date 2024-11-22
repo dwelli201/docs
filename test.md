@@ -5,6 +5,5 @@
 <br>
 
 <center>
-    <img src="https://www.hamqsl.com/solarmuf.php" alt="Solar-Terrestrial Data">
+    <img src="https://www.hamqsl.com/solarn0nbh.php" alt="Solar-Terrestrial Data">
 </center>
-
