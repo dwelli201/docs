@@ -13,7 +13,7 @@
             margin: 20px;
         }
         #forecastBox {
-            width: 132ch;
+            width: 80ch;
             height: 80em;
             overflow: auto;
             font-family: monospace;
