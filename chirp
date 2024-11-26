@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="dark-theme.css">
+
+#Chirp sample
+
 | Location | Name              | Frequency (MHz) | Duplex | Offset (MHz) | Tone Mode | Tone (Hz) | ToneSql | Dtcs Code | Dtcs Polarity | Power | Comment                      |
 |----------|-------------------|-----------------|--------|-------------|-----------|-----------|---------|-----------|---------------|-------|------------------------------|
 | 1        | FRS Ch 1          | 462.5625        | None   | 0.0000      | None      |           |         | 023       | NN            | Low   |                              |
