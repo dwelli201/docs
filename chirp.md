@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="dark-theme.css">
+
+
 | Location | Name              | Frequency (MHz) | Power | Tone (Hz) | Comment                      |
 |----------|-------------------|-----------------|-------|-----------|------------------------------|
 | 1        | FRS Ch 1          | 462.5625        | Low   |           |                              |
