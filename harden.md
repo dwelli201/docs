@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="dark-theme.css">
+
 [Back](https://dwelli201.github.io/docs/education.html)
 
 # Hardening your VM or Linux IoT devices
