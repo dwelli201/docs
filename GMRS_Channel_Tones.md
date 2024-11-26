@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="dark-theme.css">
+
+
 | Channel Name   |   Frequency | Power Level   | Bandwidth   | Max Power   | Notes   | Tone Mode   |   CTCSS |   Channel |
 |:---------------|------------:|:--------------|:------------|:------------|:--------|:------------|--------:|----------:|
 | GMRS 01        |     462.55  | 2 W           | 12.5 kHz    | 50 W        | (GMRS)  | Tone        |   141.3 |       nan |
