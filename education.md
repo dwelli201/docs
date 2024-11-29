@@ -12,8 +12,8 @@
 | Python                             | [https://skillsforall.com/learningcollections/python?courseLang=en-US](https://skillsforall.com/learningcollections/python?courseLang=en-US)|
 | Introduction to Cybersecurity       | [https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US](https://skillsforall.com/course/introduction-to-cybersecurity?courseLang=en-US) |
 | Cisco Packet Tracer                | [https://skillsforall.com/learningcollections/cisco-packet-tracer?courseLang=en-US](https://skillsforall.com/learningcollections/cisco-packet-tracer?courseLang=en-US) |
-| Cyber Threat Management| [https://skillsforall.com/course/cyber-threat-management?courseLang=en-US](https://skillsforall.com/course/cyber-threat-management?courseLang=en-US) |
-| Ethical Hacker                     | [https://skillsforall.com/course/ethical-hacker?courseLang=en-U]([https://skillsforall.com/course/ethical-hacker?courseLang=en-U](https://www.netacad.com/courses/ethical-hacker?courseLang=en-US)) |
+| Cyber Threat Management            |  [https://skillsforall.com/course/cyber-threat-management?courseLang=en-U](https://www.netacad.com/courses/ethical-hacker?courseLang=en-US)
+| Ethical Hacker                     | [https://www.netacad.com/courses/ethical-hacker?courseLang=en-US](https://www.netacad.com/courses/ethical-hacker?courseLang=en-US)
 | Network Defense                    | [https://skillsforall.com/course/network-defense?courseLang=en-US](https://skillsforall.com/course/network-defense?courseLang=en-US) |
 | Endpoint Security                  | [https://skillsforall.com/course/endpoint-security?courseLang=en-US](https://skillsforall.com/course/endpoint-security?courseLang=en-US) |
 | Introduction to iOT                | [https://skillsforall.com/course/introduction-iot?courseLang=en-US](https://skillsforall.com/course/introduction-iot?courseLang=en-US) |
