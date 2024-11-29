@@ -22,7 +22,7 @@ body {
 /* Dialog box styles */
 .dialog-box {
   background-color: #FFFFFF; /* White background */
-  color: #121212; /* Dark text for readability */
+  color: #121212 !important; /* Explicit dark text color to override inheritance */
   border: 1px solid #CCCCCC; /* Light gray border for definition */
   padding: 15px;
   border-radius: 5px;
@@ -33,6 +33,11 @@ body {
 .dialog-box h1, .dialog-box h2, .dialog-box h3, .dialog-box h4, .dialog-box h5, .dialog-box h6 {
   color: #00AB6B; /* Vibrant green for headings */
   text-shadow: none; /* No shadow for better clarity */
+}
+
+/* Paragraphs inside dialog boxes */
+.dialog-box p {
+  color: #121212; /* Ensure paragraph text is dark */
 }
 
 /* Links in dialog boxes */
