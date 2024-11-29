@@ -4,8 +4,8 @@
 /* Apply the imported font to all headings (titles) */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Orbitron', sans-serif;
-  color: #00AB6B; /* Add a vibrant green color to headings */
-  text-shadow: 2px 2px 5px #003D2E; /* Add a subtle shadow for depth */
+  color: #00AB6B; /* Vibrant green color for headings */
+  text-shadow: 2px 2px 5px #003D2E; /* Subtle shadow for depth */
 }
 
 /* Dark theme colors */
@@ -16,6 +16,32 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
+}
+
+/* Dialog box styles */
+.dialog-box {
+  background-color: #FFFFFF; /* White background */
+  color: #121212; /* Dark text for readability */
+  border: 1px solid #CCCCCC; /* Light gray border for definition */
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+}
+
+/* Headings inside dialog boxes */
+.dialog-box h1, .dialog-box h2, .dialog-box h3, .dialog-box h4, .dialog-box h5, .dialog-box h6 {
+  color: #00AB6B; /* Vibrant green for headings */
+  text-shadow: none; /* No shadow for better clarity */
+}
+
+/* Links in dialog boxes */
+.dialog-box a {
+  color: #007BFF; /* Bright blue for links */
+  text-decoration: underline;
+}
+
+.dialog-box a:hover {
+  color: #0056B3; /* Darker blue on hover */
 }
 
 /* Table cell styles */
