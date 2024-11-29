@@ -24,9 +24,10 @@
 
 ## _Reference_
 
-|Reference | Description                                                  |
-|:-----------------------|:-----------------------------------------------|
-|[Hardening](./harden.md)| Linux Security Enhancements                    |
+|Reference | Description                                                         |
+|:-----------------------|:------------------------------------------------------|
+|[Hardening](./harden.md)| Linux Security Enhancements                           |
+|[Raspberry Pi Backup](./pi_backup.md)| How to backup your Raspberry Pi over SSH |
 
 | [STEPP Classes](https://www.cdse.edu/) | [Navy E-Learning](http://learning.nel.navy.mil/ELIAASv2p/) |
 
