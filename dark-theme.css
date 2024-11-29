@@ -16,6 +16,7 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
+  padding-bottom: 40px; /* Add space for the footer */
 }
 
 /* Dialog box styles */
@@ -106,4 +107,19 @@ button {
 
 button:hover {
   background-color: #007A4E; /* Darker green for hover effect */
+}
+
+/* Footer styles for "Last updated" */
+footer.last-updated {
+  position: fixed; /* Keeps the footer at the bottom */
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #2D2D2D; /* Matches your dark theme */
+  color: #E0E0E0; /* Light gray text for visibility */
+  text-align: center;
+  padding: 10px 0;
+  font-size: 14px;
+  border-top: 1px solid #444444; /* Subtle border for separation */
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.5); /* Shadow for depth */
 }
