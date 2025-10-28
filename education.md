@@ -51,6 +51,8 @@ th {
 | Introduction to iOT                | [https://skillsforall.com/course/introduction-iot?courseLang=en-US](https://skillsforall.com/course/introduction-iot?courseLang=en-US) |
 |Free Splunk Courses                 | [https://www.splunk.com/en_us/training/course-catalog.html?sort=Newest&filters=filterGroup1FreeCourses](https://www.splunk.com/en_us/training/course-catalog.html?sort=Newest&filters=filterGroup1FreeCourses) |
 |Hacker High School ([ISECOM](https://www.isecom.org/) CHA)| [https://www.hackerhighschool.org/gettingstarted.html](https://www.hackerhighschool.org/gettingstarted.html) |
+|Grafana Webinars | [https://grafana.com/videos/?plcmt=learn-nav](https://grafana.com/videos/?plcmt=learn-nav) |
+|Salesforce Trailhead | [https://trailhead.salesforce.com/](https://trailhead.salesforce.com/)
 
 <br>
 
