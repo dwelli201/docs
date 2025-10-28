@@ -53,6 +53,7 @@ th {
 |Hacker High School ([ISECOM](https://www.isecom.org/) CHA)| [https://www.hackerhighschool.org/gettingstarted.html](https://www.hackerhighschool.org/gettingstarted.html) |
 |Grafana Webinars | [https://grafana.com/videos/?plcmt=learn-nav](https://grafana.com/videos/?plcmt=learn-nav) |
 |Salesforce Trailhead | [https://trailhead.salesforce.com/](https://trailhead.salesforce.com/)
+|GROT Academy | [https://learn.grafana.com/page/badges-certifications](https://learn.grafana.com/page/badges-certifications) |
 
 <br>
 
